@@ -1,0 +1,42 @@
+body {
+width : 80%;
+margin-left: auto;
+margin-right: auto;
+padding : 0 10px;
+border : solid black 2px;
+}
+
+*{
+    background-color: #ddd;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color : red;
+    text-align: center;
+}
+h2 {
+    padding : 5px;
+    border-left : 3px rgb(213, 54, 19) solid;
+    background-color: aliceblue;
+    color :cornflowerblue;
+}
+
+hr {
+    width : 50%;
+
+}
+
+img {
+    border-radius: 50%;
+    border : solid #222 4px;
+}
+
+img.hover {
+    opacity: 50;
+    
+}
+ul li {
+    line-height: 20px;
+    font-size : 1rem;
+}
